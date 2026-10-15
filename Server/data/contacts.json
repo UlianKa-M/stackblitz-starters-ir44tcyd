@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "id": "rec_contacts_1",
+      "fields": {
+        "ContactId": 1,
+        "Phone": "+7 (8184) 56-78-90",
+        "Mobile": "+7 (911) 567-89-01",
+        "Email": "info@svarcapro.ru",
+        "Address": "г. Северодвинск, ул. Суворова, 25, стр. 3",
+        "WorkHours": "Пн-Пт: 8:00-20:00, Сб: 9:00-18:00",
+        "SocialVK": "https://vk.com/svarcapro",
+        "SocialTG": "https://t.me/svarcapro"
+      }
+    }
+  ]
+}

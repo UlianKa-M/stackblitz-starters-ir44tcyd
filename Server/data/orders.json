@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "rec_order_1",
+      "fields": {
+        "OrderId": 1,
+        "ClientId": 1,
+        "ServiceId": 2,
+        "Address": "г. Северодвинск, ул. Ломоносова, 42",
+        "Status": "В работе",
+        "Comment": "Нужны откатные ворота 4х2 метра",
+        "CreatedAt": "2026-10-12T10:00:00Z"
+      }
+    },
+    {
+      "id": "rec_order_2",
+      "fields": {
+        "OrderId": 2,
+        "ClientId": 2,
+        "ServiceId": 3,
+        "Address": "г. Северодвинск, пр. Ленина, 15, кв. 78",
+        "Status": "Завершён",
+        "Comment": "Трещина в батарее отопления",
+        "CreatedAt": "2026-10-10T14:30:00Z"
+      }
+    }
+  ]
+}

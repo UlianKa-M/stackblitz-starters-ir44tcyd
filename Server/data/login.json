@@ -1,0 +1,7 @@
+{
+  "records": [
+    { "id": "rec_login_1", "fields": { "LoginId": 1, "UserId": 1, "Login": "kosatkin", "Password": "kos123", "Email": "kosatkin@safu.ru" } },
+    { "id": "rec_login_2", "fields": { "LoginId": 2, "UserId": 2, "Login": "petrov", "Password": "pet123", "Email": "petrov@safu.ru" } },
+    { "id": "rec_login_3", "fields": { "LoginId": 3, "UserId": 3, "Login": "sidorov", "Password": "sid123", "Email": "sidorov@safu.ru" } }
+  ]
+}

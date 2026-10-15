@@ -1,0 +1,56 @@
+{
+  "records": [
+    {
+      "id": "rec_master_1",
+      "fields": {
+        "MasterId": 1,
+        "Name": "Александр Волков",
+        "Position": "Главный сварщик",
+        "Experience": 15,
+        "Specialization": "Аргонодуговая сварка, трубопроводы",
+        "Rating": 4.9,
+        "CompletedOrders": 342,
+        "Description": "Сертифицированный специалист НАКС. Опыт работы на Северстали и Севмаше."
+      }
+    },
+    {
+      "id": "rec_master_2",
+      "fields": {
+        "MasterId": 2,
+        "Name": "Дмитрий Соколов",
+        "Position": "Сварщик-универсал",
+        "Experience": 10,
+        "Specialization": "Полуавтомат, электросварка",
+        "Rating": 4.8,
+        "CompletedOrders": 215,
+        "Description": "Выполняет работы любой сложности. Специализация — металлоконструкции."
+      }
+    },
+    {
+      "id": "rec_master_3",
+      "fields": {
+        "MasterId": 3,
+        "Name": "Михаил Кузнецов",
+        "Position": "Мастер по изделиям",
+        "Experience": 8,
+        "Specialization": "Мангалы, ворота, лестницы",
+        "Rating": 5.0,
+        "CompletedOrders": 178,
+        "Description": "Художественная сварка, ковка. Создаёт уникальные изделия по эскизам заказчика."
+      }
+    },
+    {
+      "id": "rec_master_4",
+      "fields": {
+        "MasterId": 4,
+        "Name": "Сергей Морозов",
+        "Position": "Оператор плазменной резки",
+        "Experience": 12,
+        "Specialization": "Плазменная и лазерная резка",
+        "Rating": 4.7,
+        "CompletedOrders": 289,
+        "Description": "Работа с ЧПУ-станками. Точность реза до 0.5 мм."
+      }
+    }
+  ]
+}

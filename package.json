@@ -1,0 +1,26 @@
+{
+  "name": "welding-company-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./Server/index.js",
+    "front-build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "@vitejs/plugin-vue": "^4.4.0",
+    "@vue/tsconfig": "^0.4.0",
+    "vite": "^4.4.11"
+  }
+}

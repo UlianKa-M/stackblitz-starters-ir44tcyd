@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "rec_user_1",
+      "fields": {
+        "UserId": 1,
+        "Name": "Юрий",
+        "Surname": "Косаткин",
+        "Patronymic": "Вячеславович",
+        "Phone": "+7 (911) 123-45-67",
+        "DateRegistration": "2026-10-01T10:00:00Z"
+      }
+    },
+    {
+      "id": "rec_user_2",
+      "fields": {
+        "UserId": 2,
+        "Name": "Иван",
+        "Surname": "Петров",
+        "Patronymic": "Сергеевич",
+        "Phone": "+7 (911) 765-43-21",
+        "DateRegistration": "2026-10-05T14:30:00Z"
+      }
+    },
+    {
+      "id": "rec_user_3",
+      "fields": {
+        "UserId": 3,
+        "Name": "Алексей",
+        "Surname": "Сидоров",
+        "Patronymic": "Андреевич",
+        "Phone": "+7 (911) 555-12-34",
+        "DateRegistration": "2026-10-10T09:15:00Z"
+      }
+    }
+  ]
+}
